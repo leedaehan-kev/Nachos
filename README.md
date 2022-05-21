@@ -2,6 +2,9 @@
 
 To everyone who is having a hard time Not Another Completely Heuristic Operating System (NACHOS)
 
+https://cseweb.ucsd.edu/classes/fa16/cse120-a/projects/index.html
+https://homes.cs.washington.edu/~tom/nachos/
+
 You proceed in this order
 
 1. sudo apt-get install make default-jdk #install Java in Linux
