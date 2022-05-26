@@ -14,4 +14,5 @@ You proceed in this order
 5. make #compile
 
 if you want to install mips gcc cross compiler for proj 2, you can refer to this https://mipsym.github.io/mipsym/CrossCompile.html
+
 if you want to execute priority scheduler, you have to revise your nachos.conf file !!!!!
